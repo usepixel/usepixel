@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Vladimir
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning frontend-dev
-- 📫 How to reach me t.me/akayo_san
-- 😄 Pronouns: He
-- ⚡ Fun fact: I am a very sociable and friendly person
+- 👋 Привет, меня зовут Владимир!
+- 👀 Я занимаюсь разработкой сайтов.
+- 🌱 Сейчас я изучаю frontend-dev
+- 📫 Как со мной связаться t.me/akayo_san
+- ⚡ Интересный факт: я очень общительный и дружелюбный человек. 
 
 <!---
 usepixel/usepixel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
